@@ -1,5 +1,5 @@
 # TripToNowhere_HSG
-Project for HSG
+Project for HSG by Conrad V and Aris K
 
 
 In the Skills: Programming - Introduction Level course, we made a program for an end of semester project. The choice of the project was free. We decided to develop a game on Python with the use of Pygame. To write the program, we use the Atom editor. For the project, our group chose to develop a game based on the Doodle Jump model, a game we love. 

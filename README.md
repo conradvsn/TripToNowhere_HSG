@@ -13,4 +13,4 @@ To launch the game, you need to download the file, Atom, pyton and pygame. Once 
 Then, place yourself in the Principal.py document and press Ctrl+Shift+B.
 You can now enjoy the experience.
 
-
+To simplify our exchanges we did all the comments in French but they are not needed to understand the game.
